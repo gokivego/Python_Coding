@@ -13,6 +13,6 @@
 
 * Special Methods in Python
 * Pyomo Modelling Language
-* Web Scrping using Python module Scrapy
+* Web Scraping using Python module Scrapy
 
 ## Thank you 
